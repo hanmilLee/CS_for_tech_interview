@@ -2,9 +2,9 @@
 
 * [Tech interview를 위한 CS!](README.md)
 
-## 디자인 패턴
+## 디자인 패턴과 프로그래밍 패러다임
 
-* [Vision and Values](undefined/vision-and-values.md)
+* [디자인 패턴](undefined/undefined.md)
 * [Meet the Team!](undefined/meet-the-team.md)
 
 ## The Formal Stuff
