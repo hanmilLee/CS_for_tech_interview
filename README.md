@@ -1,4 +1,6 @@
 ---
+cover: >-
+  https://images.unsplash.com/photo-1553877522-43269d4ea984?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=4470&q=80
 coverY: 0
 ---
 
@@ -12,8 +14,8 @@ coverY: 0
 
 #### 디자인 패턴과 프로래밍 패러다임
 
-* [디자인 패턴 개요](https://dev-lambda.gitbook.io/tech-interview-cs/design-patern-programing-paradigm/design-patern)
-*
+* [디자인 패턴 개요](https://dev-lambda.gitbook.io/tech-interview-cs/design-patern-programing-paradigm/overview)
+* [싱글톤 패턴](https://dev-lambda.gitbook.io/tech-interview-cs/design-patern-programing-paradigm/design-patern-1)
 * 🚧 준비 중 입니다.
 
 ## Reference
