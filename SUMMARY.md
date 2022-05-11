@@ -4,7 +4,7 @@
 
 ## 디자인 패턴과 프로그래밍 패러다임
 
-* [디자인 패턴](undefined/undefined.md)
+* [디자인 패턴](undefined/vision-and-values.md)
 * [Meet the Team!](undefined/meet-the-team.md)
 
 ## The Formal Stuff
