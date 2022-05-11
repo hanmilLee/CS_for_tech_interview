@@ -2,10 +2,10 @@
 
 * [Welcome!](README.md)
 
-## The Company
+## 디자인 패턴
 
-* [Vision and Values](the-company/vision-and-values.md)
-* [Meet the Team!](the-company/meet-the-team.md)
+* [Vision and Values](undefined/vision-and-values.md)
+* [Meet the Team!](undefined/meet-the-team.md)
 
 ## The Formal Stuff
 
