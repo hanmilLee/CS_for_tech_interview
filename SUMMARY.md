@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome!](README.md)
+* [Tech interview를 위한 CS!](README.md)
 
 ## 디자인 패턴
 
