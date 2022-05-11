@@ -12,7 +12,7 @@ coverY: 0
 
 #### 디자인 패턴과 프로래밍 패러다임
 
-* [디자인 패턴 개요](https://dev-lambda.gitbook.io/tech-interview-cs/design-patern-programing-paradigm/design-patern)
+* [디자인 패턴 개요](https://dev-lambda.gitbook.io/tech-interview-cs/design-patern-programing-paradigm/overview)
 * [싱글톤 패턴](https://dev-lambda.gitbook.io/tech-interview-cs/design-patern-programing-paradigm/design-patern-1)
 * 🚧 준비 중 입니다.
 
