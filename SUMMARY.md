@@ -8,7 +8,14 @@
 * [싱글톤 패턴](design-patern-programing-paradigm/Singleton.md)
 * [팩토리 패턴](design-patern-programing-paradigm/FactoryPattern.md)
 * [전략 패턴](design-patern-programing-paradigm/StrategyPattern.md)
+* [옵저버 패턴](design-patern-programing-paradigm/ObserverPattern.md)
+* [프록시 패턴](design-patern-programing-paradigm/ProxyPattern.md)
+* [이터레이터 패턴](design-patern-programing-paradigm/IteratorPattern.md)
+* [노출모듈 패턴](design-patern-programing-paradigm/RevealingModulePattern.md)
+* [MVC, MVP, MVVM](design-patern-programing-paradigm/mvc-mvp-mvvm.md)
 
 ***
 
 * [🚧 준비 중 입니다.](untitled.md)
+* [Dev Blog](https://hmdev.vercel.app)
+* [About me](https://hmdev.vercel.app/About-me)
