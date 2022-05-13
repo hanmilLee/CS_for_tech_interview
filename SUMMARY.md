@@ -13,6 +13,8 @@
 * [이터레이터 패턴](design-patern-programing-paradigm/IteratorPattern.md)
 * [노출모듈 패턴](design-patern-programing-paradigm/RevealingModulePattern.md)
 * [MVC, MVP, MVVM](design-patern-programing-paradigm/mvc-mvp-mvvm.md)
+* [선언형과 함수형 프로그래밍](design-patern-programing-paradigm/Declarative\&FunctionalProgramming.md)
+* [객체지향 프로그래밍](design-patern-programing-paradigm/OOP.md)
 
 ***
 
