@@ -26,9 +26,9 @@ coverY: 0
 
 ### 프로그래밍 패러다임
 
-*
-
-
+* [프로그래밍 패러다임 개요](https://dev-lambda.gitbook.io/tech-interview-cs/ProgramingParadigm/about)
+* [선언형과 함수형 프로그래밍](https://dev-lambda.gitbook.io/tech-interview-cs/ProgramingParadigm/declarative-and-functionalprogramming)
+* [객체지향 프로그래밍](https://app.gitbook.com/s/AZbJpKMAEz0yChgrkDfI/ProgramingParadigm/oop)
 
 ### 🚧 준비 중 입니다.
 
@@ -39,4 +39,3 @@ coverY: 0
 * [GitHub - WeareSoft/tech-interview: 🙍 tech interview](https://github.com/WeareSoft/tech-interview)
 * [GitHub - gyoogle/tech-interview-for-developer: 👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖](https://github.com/gyoogle/tech-interview-for-developer)
 * [면접을 위한 CS 전공지식 노트 - YES24](http://www.yes24.com/Product/Goods/108887922)
-
