@@ -12,7 +12,7 @@ coverY: 0
 
 ## 목차
 
-#### 디자인 패턴과 프로래밍 패러다임
+### 디자인 패턴
 
 * [디자인 패턴 개요](https://dev-lambda.gitbook.io/tech-interview-cs/design-patern-programing-paradigm/overview)
 * [싱글톤 패턴](https://dev-lambda.gitbook.io/tech-interview-cs/design-patern-programing-paradigm/design-patern-1)
@@ -23,10 +23,20 @@ coverY: 0
 * [이터레이터 패턴](https://dev-lambda.gitbook.io/tech-interview-cs/design-patern-programing-paradigm/IteratorPattern)
 * [노출모듈 패턴](https://dev-lambda.gitbook.io/tech-interview-cs/design-patern-programing-paradigm/RevealingModulePattern)
 * [MVC, MVP, MVVM](https://dev-lambda.gitbook.io/tech-interview-cs/design-patern-programing-paradigm/mvc-mvp-mvvm)
-* 🚧 준비 중 입니다.
+
+### 프로그래밍 패러다
+
+*
+
+
+
+### 🚧 준비 중 입니다.
 
 ## Reference
+
+전체적으론 아래 문서/서적을 참고하였습니다. 페이지별 개별 reference는 각 페이지에 작성하였습니다.
 
 * [GitHub - WeareSoft/tech-interview: 🙍 tech interview](https://github.com/WeareSoft/tech-interview)
 * [GitHub - gyoogle/tech-interview-for-developer: 👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖](https://github.com/gyoogle/tech-interview-for-developer)
 * [면접을 위한 CS 전공지식 노트 - YES24](http://www.yes24.com/Product/Goods/108887922)
+
