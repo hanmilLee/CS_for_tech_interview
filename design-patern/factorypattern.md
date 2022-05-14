@@ -9,7 +9,7 @@
 {% embed url="https://github.com/wnghdcjfe/csnote/blob/main/ch1/5.js%22" %}
 
 * Coffe tree라는 상위 클래스가 중요한 뼈대를 결정하고 하위 클래스인 LatteFactory가 구체적인 내용 결정
-* [의존성 주입](Singleton.md#di-dependency-injection)이라고 볼수도 있다. (CoffeFactory에서 LatteFactory의 인스턴스를 생성하는게 아닌, LatteFactory에서 생성한 인스턴스를 CoffeFactory에 주입하고 있기에)
+* [의존성 주입](singleton.md#di-dependency-injection)이라고 볼수도 있다. (CoffeFactory에서 LatteFactory의 인스턴스를 생성하는게 아닌, LatteFactory에서 생성한 인스턴스를 CoffeFactory에 주입하고 있기에)
 
 
 
