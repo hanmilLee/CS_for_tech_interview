@@ -16,7 +16,7 @@
 
 ## 프로그래밍 패러다임 <a href="#ProgramingParadigm" id="ProgramingParadigm"></a>
 
-* [프로그래밍 패러다임 개요](ProgramingParadigm/undefined.md)
+* [프로그래밍 패러다임 개요](ProgramingParadigm/about.md)
 * [선언형과 함수형 프로그래밍](design-patern-programing-paradigm/Declarative\&FunctionalProgramming.md)
 * [객체지향 프로그래밍](design-patern-programing-paradigm/OOP.md)
 

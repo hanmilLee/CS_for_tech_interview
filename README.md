@@ -24,7 +24,7 @@ coverY: 0
 * [노출모듈 패턴](https://dev-lambda.gitbook.io/tech-interview-cs/design-patern-programing-paradigm/RevealingModulePattern)
 * [MVC, MVP, MVVM](https://dev-lambda.gitbook.io/tech-interview-cs/design-patern-programing-paradigm/mvc-mvp-mvvm)
 
-### 프로그래밍 패러다
+### 프로그래밍 패러다임
 
 *
 
