@@ -28,7 +28,7 @@ coverY: 0
 
 * [프로그래밍 패러다임 개요](https://dev-lambda.gitbook.io/tech-interview-cs/ProgramingParadigm/about)
 * [선언형과 함수형 프로그래밍](https://dev-lambda.gitbook.io/tech-interview-cs/ProgramingParadigm/declarative-and-functionalprogramming)
-* [객체지향 프로그래밍](https://app.gitbook.com/s/AZbJpKMAEz0yChgrkDfI/ProgramingParadigm/oop)
+* [객체지향 프로그래밍](https://dev-lambda.gitbook.io/tech-interview-cs/ProgramingParadigm/oop)
 
 ### 🚧 준비 중 입니다.
 
