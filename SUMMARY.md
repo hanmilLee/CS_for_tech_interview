@@ -23,6 +23,7 @@
 ## 운영체제 <a href="#OS" id="OS"></a>
 
 * [운영체제와 컴퓨터](OS/undefined.md)
+* [메모리](OS/memory.md)
 
 ***
 
