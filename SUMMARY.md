@@ -24,8 +24,10 @@
 
 * [운영체제와 컴퓨터](OS/undefined.md)
 * [메모리](OS/memory.md)
-* [프로세스와 스레드](OS/Process\&Thread.md)
+* [프로세스](OS/Process\&Thread.md)
 * [PCB와 Context Switching](OS/PCB.md)
+* [멀티프로세싱, IPC](OS/ipc.md)
+* [스레드와 멀티스레딩](OS/undefined-1.md)
 
 ***
 
