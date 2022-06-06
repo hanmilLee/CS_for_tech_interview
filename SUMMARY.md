@@ -27,7 +27,7 @@
 * [프로세스](OS/Process\&Thread.md)
 * [PCB와 Context Switching](OS/PCB.md)
 * [멀티프로세싱, IPC](OS/ipc.md)
-* [스레드와 멀티스레딩](OS/undefined-1.md)
+* [스레드와 멀티스레딩](OS/thread.md)
 
 ***
 
