@@ -103,7 +103,7 @@ input 텍스트, 체크박스 항목 등과 같은 사용자 인터페이스 요
 
 ## MVP 패턴
 
-![\[디자인패턴\] MVC, MVP, MVVM 비교 (tistory.com)](<../.gitbook/assets/img1.daumcdn (1) (1) (1).png>)
+![\[디자인패턴\] MVC, MVP, MVVM 비교 (tistory.com)](<../.gitbook/assets/img1.daumcdn (4).png>)
 
 * MVC 패턴으로 부터 파생
 * MVC에서 C에 해당하는 컨트롤러가 프레젠터(Presenter)로 교체
@@ -113,7 +113,7 @@ input 텍스트, 체크박스 항목 등과 같은 사용자 인터페이스 요
 
 ## MVVM 패턴
 
-![\[디자인패턴\] MVC, MVP, MVVM 비교 (tistory.com)](<../.gitbook/assets/img1.daumcdn (2) (1).png>)
+![\[디자인패턴\] MVC, MVP, MVVM 비교 (tistory.com)](../.gitbook/assets/img1.daumcdn.png)
 
 * MVC의 C에 해당하는 컨트롤러가 뷰모로 바뀐 패턴
   * 뷰모델: 뷰를 더 추상화한 개념

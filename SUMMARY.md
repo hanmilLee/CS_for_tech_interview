@@ -24,7 +24,7 @@
 
 * [운영체제와 컴퓨터](OS/undefined.md)
 * [메모리](OS/memory.md)
-* [프로세스와 스레드](OS/Process\&Thread.md)
+*
 
 ***
 
